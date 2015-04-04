@@ -1,2 +1,2 @@
 # hello-world
-just a new repository
+the project is aimed to know how to use GitHub.
